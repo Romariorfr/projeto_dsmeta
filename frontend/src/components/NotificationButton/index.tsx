@@ -1,6 +1,6 @@
 import icon from "../../assets/img/notification-icon.svg";
 
-import './styless.css'
+import './styless.css';
 
 function NotificationButton() {
   return (
