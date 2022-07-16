@@ -14,9 +14,9 @@
 
 <div align="center">
   <h2>Desktop</h2>
-  <img height="227.46" src="https://github.com/Romariorfr/dsmeta-projeto/blob/master/frontend/assets/img1-pc.png" alt="Movies list page on desktop"/>
-  <img height="227.46" src="https://github.com/Romariorfr/dsmeta-projeto/blob/master/frontend/assets/img2-pc.png" alt="Movie form page on desktop"/>
-  <img height="227.46" src="https://github.com/Romariorfr/dsmeta-projeto/blob/master/frontend/assets/img3-pc.png" alt="Movie form page on desktop"/>
+  <img height="454,92" src="https://github.com/Romariorfr/dsmeta-projeto/blob/master/frontend/assets/img1-pc.png" alt="Movies list page on desktop"/>
+  <img height="454,92" src="https://github.com/Romariorfr/dsmeta-projeto/blob/master/frontend/assets/img2-pc.png" alt="Movie form page on desktop"/>
+  <img height="454,92" src="https://github.com/Romariorfr/dsmeta-projeto/blob/master/frontend/assets/img3-pc.png" alt="Movie form page on desktop"/>
 </div>
 
 <div align="center">
