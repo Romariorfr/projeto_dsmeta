@@ -14,20 +14,36 @@
 </p>
 
 
-<div align="center">
-  <h2>Desktop</h2>
-  <img src="https://github.com/Romariorfr/dsmeta-projeto/blob/master/frontend/assets/img1-pc.png" alt="Movies list page on desktop"/>
-  <img src="https://github.com/Romariorfr/dsmeta-projeto/blob/master/frontend/assets/img2-pc.png" alt="Movie form page on desktop"/>
-  <img src="https://github.com/Romariorfr/dsmeta-projeto/blob/master/frontend/assets/img3-pc.png" alt="Movie form page on desktop"/>
-</div>
+<h2 align="center">Desktop</h2>
+
+
+
+ Web                  |        
+:---------------------:|
+![](https://github.com/Romariorfr/dsmeta-projeto/blob/master/frontend/assets/img1-pc.png)
+
 
 <div align="center">
-  <h2>Mobile</h2>
-  <img height="491" src="https://github.com/Romariorfr/dsmeta-projeto/blob/master/frontend/assets/img1-mobile.png" alt="Movies list page on mobile" />
-  <img height="491" src="https://github.com/Romariorfr/dsmeta-projeto/blob/master/frontend/assets/img2-mobile.png" alt="Movie form page on mobile" />
-  <img height="491" src="https://github.com/Romariorfr/dsmeta-projeto/blob/master/frontend/assets/img4-mobile.png" alt="Movie form page on mobile" />
-</div>
-<br><br>
+
+ Desktop - pagina inicial  |        
+:-------------------------:|
+![](https://github.com/Romariorfr/dsmeta-projeto/blob/master/frontend/assets/img1-pc.png)
+
+ Desktop - envio de sms    |        
+:-------------------------:|
+![](https://github.com/Romariorfr/dsmeta-projeto/blob/master/frontend/assets/img2-pc.png)
+
+ Desktop - filtro por data |        
+:-------------------------:|
+![](https://github.com/Romariorfr/dsmeta-projeto/blob/master/frontend/assets/img3-pc.png)
+
+<h2 align="center">App mobile</h2>
+
+|        Filtro de data    |      Envio de sms      |       Pagina inicial
+|:------------------------:|:----------------------:|:------------------------:
+![](https://github.com/Romariorfr/dsmeta-projeto/blob/master/frontend/assets/img1-mobile.png)|![](https://github.com/Romariorfr/dsmeta-projeto/blob/master/frontend/assets/img2-mobile.png)|![](https://github.com/Romariorfr/dsmeta-projeto/blob/master/frontend/assets/img4-mobile.png)
+
+
 
 
 ## 💻 Sobre o projeto
