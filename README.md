@@ -1,9 +1,6 @@
 
 <H1 align="center">DSMeta :chart_with_upwards_trend: </h1>
 
-
-
-
 <H3 align="center"> Projeto Web Full Stack</H3>
 <H4 align="center">Aplicação Web para Envio de SMS e tabela com filtro de data</H4>
 
@@ -43,8 +40,7 @@
 |:------------------------:|:----------------------:|:------------------------:
 ![](https://github.com/Romariorfr/dsmeta-projeto/blob/master/frontend/assets/img1-mobile.png)|![](https://github.com/Romariorfr/dsmeta-projeto/blob/master/frontend/assets/img2-mobile.png)|![](https://github.com/Romariorfr/dsmeta-projeto/blob/master/frontend/assets/img4-mobile.png)
 
-
-
+<div align="left">
 
 ## 💻 Sobre o projeto
 DSMeta é um aplicativo Web Full Stack que mantém uma lista de registro de vendedores e suas respectivas vendas, possibilitando filtrar os registros por data e também realizar o envio de SMS como notificação para o vendedor destaque do mês.
@@ -78,6 +74,8 @@ DSMeta é um aplicativo Web Full Stack que mantém uma lista de registro de vend
 - Front end web: Netlify
 - Banco de dados: H2
 
+</div>
+
 
 
 ## :astronaut: Author 
@@ -85,16 +83,3 @@ DSMeta é um aplicativo Web Full Stack que mantém uma lista de registro de vend
 Romário Ferreira de Rezende
 
 https://www.linkedin.com/in/romarioferreiradeveloper
-
-
-
-
-
-
-
-
-
-
-
-
-
