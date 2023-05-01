@@ -2,7 +2,7 @@
 <H1 align="center">DSMeta :chart_with_upwards_trend: </h1>
 
 <H3 align="center"> Projeto Web Full Stack</H3>
-<H4 align="center">Aplicação Web para Envio de SMS e tabela com filtro de data</H4>
+<H4 align="center">Este projeto é uma aplicação web que permite o gerenciamento de vendas e possibilita a visualização do melhor vendedor do mês. Com a funcionalidade de filtragem por data, o usuário pode facilmente visualizar as vendas realizadas dentro de um determinado período de tempo. A partir dessas informações, o sistema calcula e apresenta o vendedor que mais se destacou no período selecionado.</H4>
 
 <p align="center">
   <a href="https://dsmeta-romario.netlify.app">Link do site</a><br>
@@ -43,12 +43,16 @@
 <div align="left">
 
 ## 💻 Sobre o projeto
-DSMeta é um aplicativo Web Full Stack que mantém uma lista de registro de vendedores e suas respectivas vendas, possibilitando filtrar os registros por data e também realizar o envio de SMS como notificação para o vendedor destaque do mês.
+DSMeta é uma aplicação web Full Stack que oferece um gerenciamento completo de vendas, permitindo registrar os vendedores e suas respectivas vendas, além de possibilitar a filtragem desses registros por data. Com essa funcionalidade, é possível analisar as vendas realizadas em um determinado período e visualizar o desempenho dos vendedores nesse período.
+
+Outra funcionalidade interessante é a possibilidade de enviar notificações por SMS para o vendedor destaque do mês. A partir dos registros de vendas, o sistema identifica o vendedor que mais se destacou no período selecionado e envia uma mensagem SMS para parabenizá-lo pelo desempenho.
 
 ## ⚙️ Funcionalidades
 
-- [x] Usuários podem ter realizar o envio de SMS para os vendedores.
-- [x] Usuários podem realizar o filtro de registros por data minima e maxima.
+- [x] Registro de vendedores e suas vendas
+- [x] Filtragem de registros de vendas por data
+- [x] Identificação do vendedor destaque do mês
+- [x] Envio de notificação por SMS para o vendedor destaque do mês
 
 ## :books: Tecnologias utilizadas
 ### Back end
@@ -80,6 +84,6 @@ DSMeta é um aplicativo Web Full Stack que mantém uma lista de registro de vend
 
 ## :astronaut: Author 
 
-Romário Ferreira de Rezende
+Romário Ferreira de Rezende / Desenvolvedor Web Full Strack
 
 https://www.linkedin.com/in/romarioferreiradeveloper
